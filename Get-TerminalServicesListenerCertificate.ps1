@@ -42,5 +42,3 @@
 
     END {}
 }
-
-Get-TerminalServicesListenerCertificate
